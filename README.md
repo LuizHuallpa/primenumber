@@ -1,4 +1,4 @@
-# primenumber
+# Primenumber
 
 Criar uma matriz unidimensional de tipo numérico inteiro com tamanho à sua escolha, com
 pelo menos 37 elementos;
